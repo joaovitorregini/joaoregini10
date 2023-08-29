@@ -1,5 +1,5 @@
-cabeçalho {
-  background-color: #a0db6b;
+.cabeçalho {
+  background-color: #2a27d0;
   color:black;
   display: flex;
   justify-content: space-around;
@@ -10,25 +10,6 @@ cabeçalho {
   }
   .cabeçalho-lista-item{
   display: inline-block;
+  font-size: 24px;
   margin: 0 16px
-  font-size: 24px
   }
-  .escola-imagem{
-    width: 25%;
-    }
-    .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color:white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-    }
-    
-    .escola-div-conteudo{
-    width: 35%;
-    font-size: 24px;
-    }
-    .escola-titulo{
-    padding: 24px 0;
-    }
